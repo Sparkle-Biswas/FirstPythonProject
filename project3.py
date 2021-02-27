@@ -1,7 +1,7 @@
 #
 # CS 177 - Project3.py
-# Sparkle Biswas - 0031907121
-# Ruhani Sansoya - 0027811803
+# Sparkle Biswas
+# Ruhani Sansoya
 # Following CS 177 Coding Standards and Guidelines
 # This program is an enhancement of the game you created in Project 2
 # We were required to add three compulsary features:
