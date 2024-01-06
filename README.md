@@ -56,5 +56,8 @@
 #       clicked anytime to close this window. This window also closes with all the other windows when the QUIT button on the control
 #       panel is clicked. This feature uses decision statements to check for clicks on the window and accordingly draws and undraws graphic
 #       objects. We suggest that the player click on this button before playing the game to get a better idea of how boilerbucks work.
+<img width="229" alt="Screenshot 2024-01-06 102609" src="https://github.com/Sparkle-Biswas/FirstPythonProject/assets/62808850/5fdec902-5b11-4f3c-a328-4a40566f041c">
+<img width="228" alt="Screenshot 2024-01-06 102651" src="https://github.com/Sparkle-Biswas/FirstPythonProject/assets/62808850/c6c44b74-70bc-4ff4-99dc-be5bbabd74bf">
+<img width="227" alt="Screenshot 2024-01-06 102914" src="https://github.com/Sparkle-Biswas/FirstPythonProject/assets/62808850/4ac5d132-ae0b-4ec0-bc46-2438b8bcff1b">
 #
-#
+
