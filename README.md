@@ -7,8 +7,11 @@
 # DESCRIPTION OF THE GAME
 # In this game, the user has to guess a 5 letter word
 # You get 10 wrong guesses, after that you lose the game
-#
-#
+
+<img width="303" alt="Screenshot 2024-01-06 101838" src="https://github.com/Sparkle-Biswas/FirstPythonProject/assets/62808850/246687d2-59d5-4d85-850f-cfed2d5b67b7">  
+<img width="300" alt="Screenshot 2024-01-06 102129" src="https://github.com/Sparkle-Biswas/FirstPythonProject/assets/62808850/576a3be9-4b6a-4688-80c1-575875d52ce7">
+<img width="299" alt="Screenshot 2024-01-06 102217" src="https://github.com/Sparkle-Biswas/FirstPythonProject/assets/62808850/0cc26bea-b504-4740-b7bc-c8c59caaec92">
+
 # We were required to add three compulsary features:
 # 1) The HINT button. We created a hint button on the control panel which would only be functional went
 #       the game panel is open. Once you click on the hint button, it will eliminate three random characters
@@ -16,8 +19,7 @@
 # 2) The second feature is that at the end of each game, display an Entry box object in the GAME PANEL Graphics
 #       window along with a label to prompt the user to enter their name. The player’s game statistics
 #       (name, number of rounds and final score) should be added to the scores.txt datafile. The initial
-#       file is provided with the Project 3 assignment on Blackboard and your program must support the file
-#       in that format. No changes to the format of the scores.txt datafile are allowed.
+#       file is provided with the Project 3 assignment on Blackboard and your program must support the fi
 # 3) The third feature we had to add was the high scores window. We modified the CONTROL PANEL Graphics window
 #       to include a new Rectangle labeled HIGH SCORES. A click on this control opens a new Graphics window that
 #       displays the top 7 scores from the scores.txt file in a “scrolling” animation.  When the HIGH SCORES
